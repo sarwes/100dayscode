@@ -80,3 +80,7 @@ JugsMugs
 - output 
 True
 ----
+# day021-[jugsmugspugslite](https://github.com/sarwes/100dayscode/blob/master/day021.py)
+- output 
+JugsMugs
+----

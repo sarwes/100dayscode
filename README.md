@@ -68,3 +68,7 @@ LEAP
 - output
 Jugs
 ----
+# day018-[mugs for five](https://github.com/sarwes/100dayscode/blob/master/day018.py)
+- output 
+Jugs
+----

@@ -19,7 +19,11 @@ The next number for the number 179 is 180
 The previous number for the number 179 is 178
 ----
 # day005-[apple sharing](https://github.com/sarwes/100dayscode/blob/master/day005.py)
--output 
+- output 
 8
 2
+----
+# day006-[hours and minutes](https://github.com/sarwes/100dayscode/blob/master/day006.py)
+- output
+1 65
 ----

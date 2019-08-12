@@ -64,3 +64,7 @@ odd
 - output 
 LEAP
 ---
+# day017-[jugs for three](https://github.com/sarwes/100dayscode/blob/master/day017.py)
+- output
+Jugs
+----

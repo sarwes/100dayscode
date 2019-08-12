@@ -38,3 +38,6 @@ The previous number for the number 179 is 178
 # day009-[level10](https://github.com/sarwes/100dayscode/blob/master/day009.py)
 - output 
 ----
+# day010-[hugright](https://github.com/sarwes/100dayscode/blob/master/day010.py)
+- output
+----

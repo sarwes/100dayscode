@@ -13,3 +13,8 @@ hello hearry!
 - output 
 7.5
 ----
+# day004-[previous](https://github.com/sarwes/100dayscode/blob/master/day004.py)
+- output
+The next number for the number 179 is 180
+The previous number for the number 179 is 178
+----

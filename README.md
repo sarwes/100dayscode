@@ -76,3 +76,7 @@ Jugs
 - output 
 JugsMugs
 ----
+# day020-[membership](https://github.com/sarwes/100dayscode/blob/master/day020.py)
+- output 
+True
+----

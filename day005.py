@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=round(b/a)
+d=(b % a)
+print(c)
+print(d)

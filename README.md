@@ -48,3 +48,7 @@ The previous number for the number 179 is 178
 - output 
 6
 ----
+# day013-[odd or even](https://github.com/sarwes/100dayscode/blob/master/day013.py)
+- output 
+odd
+---

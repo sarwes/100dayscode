@@ -72,3 +72,7 @@ Jugs
 - output 
 Jugs
 ----
+# day019-[jugsmugspugs](https://github.com/sarwes/100dayscode/blob/master/day019.py)
+- output 
+JugsMugs
+----

@@ -52,3 +52,7 @@ The previous number for the number 179 is 178
 - output 
 odd
 ---
+# day014-[minimum of numbers](https://github.com/sarwes/100dayscode/blob/master/day014.py)
+- output
+3
+---

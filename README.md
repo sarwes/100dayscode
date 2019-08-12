@@ -56,3 +56,7 @@ odd
 - output
 3
 ---
+# day015-[days in month](https://github.com/sarwes/100dayscode/blob/master/day015.py)
+- output
+31
+----

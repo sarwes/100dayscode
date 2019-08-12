@@ -44,3 +44,7 @@ The previous number for the number 179 is 178
 # day011-[hugleft](https://github.com/sarwes/100dayscode/blob/master/day011.py)
 - output 
 ----
+# day012-[sum of digits](https://github.com/sarwes/100dayscode/blob/master/day012.py)
+- output 
+6
+----

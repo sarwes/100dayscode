@@ -5,3 +5,7 @@ TODO-100 days of code on puthon language...
 - output 
 hello hearry!
 ----
+# day002-[sum of three numbers](https://github.com/sarwes/100dayscode/blob/master/day002.py)
+- output
+11
+----

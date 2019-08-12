@@ -60,3 +60,7 @@ odd
 - output
 31
 ----
+# day016-[leap year](https://github.com/sarwes/100dayscode/blob/master/day016.py)
+- output 
+LEAP
+---

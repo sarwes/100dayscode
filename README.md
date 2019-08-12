@@ -31,3 +31,7 @@ The previous number for the number 179 is 178
 - output
 3661
 ----
+# day008-[twopoints](https://github.com/sarwes/100dayscode/blob/master/day008.py)
+- output 
+4
+----

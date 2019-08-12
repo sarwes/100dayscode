@@ -9,3 +9,7 @@ hello hearry!
 - output
 11
 ----
+# day003-[area](https://github.com/sarwes/100dayscode/blob/master/day003.py)
+- output 
+7.5
+----

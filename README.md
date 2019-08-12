@@ -27,3 +27,7 @@ The previous number for the number 179 is 178
 - output
 1 65
 ----
+# day007-[timestamp](https://github.com/sarwes/100dayscode/blob/master/day007.py)
+- output
+3661
+----

@@ -84,3 +84,7 @@ True
 - output 
 JugsMugs
 ----
+# day022-[jugsmugspugsplus](https://github.com/sarwes/100dayscode/blob/master/day%20022.py)
+- output
+JugsPugs
+----

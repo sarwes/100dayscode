@@ -1,5 +1,4 @@
-# 100dayscode
-TODO-100 days of code on puthon language...
+# python basic learning
 
 # day001-[hello greeting](https://github.com/sarwes/100dayscode/blob/master/day001.py)
 - output 

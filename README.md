@@ -87,4 +87,5 @@ JugsMugs
 - output
 JugsPugs
 ----
-# [eliminate duplicate string]
+# [eliminate duplicate string](https://github.com/sarwes/python-basics-2019/blob/master/d.py)
+---

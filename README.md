@@ -25,3 +25,4 @@
 # [eliminate duplicate string](https://github.com/sarwes/python-basics-2019/blob/master/d.py)
 # [star at center](https://github.com/sarwes/python-basics-2019/blob/master/star%20at%20center.py)
 # [star at left](https://github.com/sarwes/python-basics-2019/blob/master/star%20from%20left.py)
+# [star at right](https://github.com/sarwes/python-basics-2019/blob/master/star%20from%20right.py)
